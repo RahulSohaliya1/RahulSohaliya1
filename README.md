@@ -78,15 +78,15 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulsohaliya120&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsohaliya120&layout=compact&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rahulsohaliya120&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RahulSohaliya1&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulSohaliya1&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RahulSohaliya1&theme=tokyonight&hide_border=true)
 
 ---
 
 ### 🏆 Achievements
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=rahulsohaliya120&theme=darkhub&no-frame=true&no-bg=true&margin-w=5)
+![Trophy](https://github-profile-trophy.vercel.app/?username=RahulSohaliya1&theme=darkhub&no-frame=true&no-bg=true&margin-w=5)
 
 ---
 
